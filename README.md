@@ -1,10 +1,3 @@
-# 🛒 MERN Stack E-Commerce Platform
-
-A modern, full-featured full-stack e-commerce web application built using the **MERN Stack** (MongoDB, Express.js, React, Node.js), powered by **Vite**, **Redux Toolkit**, **Tailwind CSS**, and integrated with **PayPal** for secure payments.
-
-![Thumbnail](thumb.png)
-
----
 
 ## 🌟 Key Features
 
@@ -233,7 +226,3 @@ Inside `frontend/`:
 - **Email**: [sandyboy7878@gmail.com](mailto:sandyboy7878@gmail.com)
 
 ---
-
-## 📄 License
-
-This project is licensed under the **ISC License**.
